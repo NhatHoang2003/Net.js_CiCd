@@ -10,5 +10,6 @@ export default function Page() {
     <p>Add new message</p>
     <p>hoang</p>
     <p>le</p>
+    <p>nhat</p>
   </>
 }
