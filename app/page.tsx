@@ -8,5 +8,7 @@ export default function Page() {
     <p>Odoriko</p>
     <p>Tokyo</p>
     <p>Add new message</p>
+    <p>hoang</p>
+    <p>le</p>
   </>
 }
